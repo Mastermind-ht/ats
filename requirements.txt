@@ -1,5 +1,8 @@
 streamlit
 werkzeug
+spacy
 pandas
 numpy
 matplotlib
+
+
