@@ -5,6 +5,7 @@ pandas
 scikit-learn
 numpy
 matplotlib
+fairlearn
 
 
 
